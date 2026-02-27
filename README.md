@@ -1,4 +1,4 @@
 ###  Technology Stack
-- Web3 developer with TypeScript and English
-- Claude Code Heavy User
+- Web3 developer with English and other program languages
+- Vibe Coder with Claude Code and Codex
 
