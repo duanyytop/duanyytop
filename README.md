@@ -1,4 +1,4 @@
 ###  Technology Stack
-- Web3 developer with Rust, Go, and TypeScript
+- Web3 developer with TypeScript and English
 - Claude Code Heavy User
 
